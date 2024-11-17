@@ -3,6 +3,7 @@ msgstr ""
 "Project-Id-Version: Reversi\n"
 "POT-Creation-Date: 1998-10-01 13:21+0200\n"
 "PO-Revision-Date: 1998-02-02 18:54 MET DST\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Last-Translator: Vatafu Valerica <wally@chuck.tlnet.de>\n"
 
 #: app.cpp:218 app.cpp:553

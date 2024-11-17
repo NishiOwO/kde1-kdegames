@@ -2,6 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kabalone\n"
 "POT-Creation-Date: 1998-10-13 13:30+0200\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Last-Translator: Vatafu Valerica <wally@chuck.tlnet.de>\n"
 
 #: Move.cpp:17

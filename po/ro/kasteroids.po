@@ -3,6 +3,7 @@ msgstr ""
 "Project-Id-Version: kasteroids\n"
 "POT-Creation-Date: 1998-10-01 13:21+0200\n"
 "PO-Revision-Date: 1997-01-02 14:57 MET\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Last-Translator: Vatafu Valerica <wally@chuck.tlnet.de>\n"
 
 #: toplevel.cpp:98

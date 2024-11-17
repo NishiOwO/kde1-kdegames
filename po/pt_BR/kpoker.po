@@ -3,6 +3,7 @@ msgstr ""
 "Project-Id-Version: kpoker\n"
 "POT-Creation-Date: 1999-03-05 01:33+0100\n"
 "PO-Revision-Date: 1998-06-23 09:00-0300\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Last-Translator: Elvis Pfützenreuter<epx@netville.com.br>\n"
 
 #: kpoker.cpp:80 kpoker.cpp:536
