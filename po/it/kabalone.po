@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 1998-10-13 13:30+0200\n"
-"Content-Type: text/plain; charset=\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Date: 1997-09-24 10:59:56+0200\n"
 "From: Francesco Lotti <Goo@hey.to>\n"
 "Xgettext-Options: --default-domain=kabalone --keyword=translate\n"
