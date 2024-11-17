@@ -6,7 +6,7 @@ msgstr ""
 "Last-Translator: Pedro Morais <pmmm@camoes.rnl.ist.utl.pt>\n"
 "Language-Team: pt\n"
 "MIME-Version:\n"
-"Content-Type:\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding:\n"
 
 #: cardmaps.cpp:63
