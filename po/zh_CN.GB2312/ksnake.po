@@ -8,6 +8,7 @@ msgstr ""
 "POT-Creation-Date: 1999-01-18 01:39+0100\n"
 "PO-Revision-Date: 1998-06-14 22:20+0200\n"
 "Last-Translator: Wang Jian <lark@linux.ustc.edu.cn>\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Language-Team: zh_CN ( gb2312 )\n"
 
 #: game.cpp:41 game.cpp:144 rattler.cpp:350
