@@ -17,11 +17,10 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 1999-03-05 01:33+0100\n"
-"Content-Type: text/plain; charset=\n"
+"Content-Type: text/plain; charset=iso-8859-2\n"
 "Date: 1997-09-30 20:08:33+0200\n"
 "From: Jochen Tuchbreiter,,, <whynot@schnecke>\n"
 "Xgettext-Options: -C -ktranslate\n"
-"Content-Type: text/plain; charset=iso-8859-2\n"
 "Files: kpaint.cpp kpoker.cpp main.cpp top.cpp\n"
 
 #: kpoker.cpp:80 kpoker.cpp:536
