@@ -384,7 +384,7 @@ bool ServerNetObject::dialogTimeout( QString& serror )
 	
 	/* contact from a new player */
 	if ( readIsset(pl[0]->sock) ) {
-		addrlen = (ksize_t)sizeof(sin);
+		addrlen = (KSIZE_T)sizeof(sin);
 		new_sock = accept( pl[0]->sock, (struct sockaddr *)&sin, &addrlen );
 		if ( new_sock<0 ) {
 			serror = i18n("Unknown message from unknown player (??)");

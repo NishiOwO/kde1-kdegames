@@ -136,7 +136,7 @@ class NetObject
 	long netaddr;
 	struct sockaddr_in sin;
 	int nb_b, new_sock;
-	ksize_t addrlen;
+	KSIZE_T addrlen;
 	char buff[MAX_BUFF], name[NAME_LENGTH];
 	QString addr;
 	Player **new_pl;
